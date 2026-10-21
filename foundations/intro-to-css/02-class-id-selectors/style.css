@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: #EBA191;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#unique {
+    color: #0003b6;
+    font-size: 36px;
+}
+
+.odd-number.cooler-one {
+    font-size: 24px;
+}
+
+#another-unique-one {
+    background-color: #5ee27a;
+    font-size: 24px;
+    font-weight: bold;
+}
